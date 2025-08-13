@@ -1,7 +1,7 @@
 # EdgeOne-Functions
 EdgeOne Functions,本仓库用于储存一些基于EdgeOne边缘函数的实现,包含自定义错误页,自动处理图片,API智能路由,API边缘鉴权等函数模板  
 
-本项目大部分代码兼容ESA边缘函数功能 请自行测试使用  
+本项目部分代码兼容ESA边缘函数与Cloudflare Worker功能 请自行测试使用  
 
 # 使用方法 
 EdgeOne控制台 > 选择你的域名 > 边缘函数 > 选择你要用到的功能 > 发布并部署 > 添加你要响应的域名
